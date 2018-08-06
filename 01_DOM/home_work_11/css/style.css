@@ -1,0 +1,11 @@
+@import url(reset.css);
+
+body{
+    background-color: lightgray;
+}
+
+div{
+    height: 10px;
+    width: 100px;
+    background-color: red;
+}
