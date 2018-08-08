@@ -1,4 +1,4 @@
-const DATA = [
+[
   {
     "city":"Mascow",
     "temp":10,

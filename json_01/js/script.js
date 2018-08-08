@@ -1,3 +1,4 @@
 console.log('You are at ' + window.location);
 
-console.log(DATA);
+const apiString = JSON.stringify(DATA);
+console.log(apiString);
