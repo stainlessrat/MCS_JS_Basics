@@ -1,0 +1,19 @@
+@import url(reset.css);
+
+body{
+    background-color: lightgray;
+}
+div{
+    background: white;
+    border: 1px solid burlywood;
+    margin: 10px auto;
+    width: 600px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+.result{
+    background-color: beige;
+    width: 300px;
+    margin: 10px auto;
+}
