@@ -1,0 +1,42 @@
+@import url(reset.css);
+
+#widthContent{
+    width: 70%;
+    min-width: 500px;
+    background-color: lightgray;
+    margin: 0 auto;
+}
+h1{
+    font-size: 24px;
+    color: white;
+}
+header{
+    text-align: center;
+    padding: 20px;
+    background-color: blue;
+}
+article{
+    color: white;
+    text-align: center;
+}
+p{
+    margin: 10px;
+}
+img{
+    margin: 5px;
+    width: 150px;
+}
+#fight{
+    vertical-align: center;
+}
+footer{
+    background-color: deepskyblue;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+#player{
+    display: block;
+    float: left;
+}
